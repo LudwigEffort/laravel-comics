@@ -2,43 +2,43 @@
 
 return [
     [
-        'route' => ['home'],
+        'route' => 'home',
         'label' => 'Home',
     ],
     [
-        'route' => ['comics', 'comic'],
+        'route' => 'comics',
         'label' => 'Comics',
     ],
     [
-        'route' => ['home'],
+        'route' => 'movies',
         'label' => 'Movies',
     ],
     [
-        'route' => ['home'],
+        'route' => 'tv',
         'label' => 'TV',
     ],
     [
-        'route' => ['home'],
+        'route' => 'games',
         'label' => 'Games',
     ],
     [
-        'route' => ['home'],
+        'route' => 'collectibles',
         'label' => 'Collectibles',
     ],
     [
-        'route' => ['home'],
+        'route' => 'videos',
         'label' => 'Videos',
     ],
     [
-        'route' => ['home'],
+        'route' => 'fans',
         'label' => 'Fans',
     ],
     [
-        'route' => ['home'],
+        'route' => 'news',
         'label' => 'News',
     ],
     [
-        'route' => ['home'],
-        'label' => 'Shop',
+        'route' => 'home',
+        'label' => '',
     ],
 ];
